@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Screenshot 2024-09-04 104249.png
 title: "Filament Monitoring System"
 date: 2024
 published: true
