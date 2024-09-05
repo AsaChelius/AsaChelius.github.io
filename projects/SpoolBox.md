@@ -23,7 +23,6 @@ five times to prevent a load cell drift that was more than 200g/hr. By the compl
 plans to build on the prototype that I created and expand it to all the printers that they have in their rapid prototyping unit.
 <div class="text-center p-4">
   <img width="400px" src="../img/unnamed (1).jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="400px" src="../img/unnamed.jpg" class="img-thumbnail" >
 </div>
 
