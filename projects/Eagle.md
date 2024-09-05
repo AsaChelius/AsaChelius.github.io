@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2024-09-04 104249.png
+image: img/IMG_0109.JPG
 title: "Eagle Scout Project"
 date: 2024
 published: true
