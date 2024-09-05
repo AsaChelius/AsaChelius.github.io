@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2024-09-04 104249.png
+image: img/Screenshot 2024-09-04 141248.png
 title: "Shrinky the Clown Game"
 date: 2024
 published: true
