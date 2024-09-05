@@ -20,6 +20,5 @@ about this project by the scout leaders and then I was awareded my Eagle Scout c
 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/unnamed (1).jpg" class="img-thumbnail" >
-  <img width="600px" src="../img/unnamed.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/IMG_1284.jpg" class="img-thumbnail" >
 </div>
