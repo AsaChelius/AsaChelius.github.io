@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Creativity as a Motivator"
 # All dates must be YYYY-MM-DD format!
-date: 2024-08-04
+date: 2024-09-04
 published: true
 labels:
   - Software Engineering
