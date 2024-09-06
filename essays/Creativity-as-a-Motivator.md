@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Creativity in Software Engineering"
+title: "Creativity-as-a-Motivator"
 # All dates must be YYYY-MM-DD format!
 date: 2024-08-04
 published: true
