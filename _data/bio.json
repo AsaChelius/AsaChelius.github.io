@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.  I am also an avid volunteer, machinist, and EMT.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "AsaChelius", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "AsaChelius", "url": "https://github.com/AsaChelius" },
       { "network": "linkedin", "username": "Asa Chelius", "url": "www.linkedin.com/in/asa-chelius-3a42b2326" },
     ]
   },
