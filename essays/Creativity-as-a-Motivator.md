@@ -15,7 +15,7 @@ It is my beleif that you can make anything, and especailly anthing in softwar en
 peices of software, and maybe some of my favorite things in general, are very creative videogames like Elden Ring or Soma. These famous games incorporate very complex physics systems and other million-dollar peices of software that took developers years to make. However, I know that the software 
 engineering team that was tasked with making these games was fully invested into their work because they were massively interested in their fun and creative projects. I would like to have similar experiences in the future with my software engineering career.
 
-##Creativity In Game Development
+## Creativity In Game Development
 
   Specifically, I hope to become a better game developer. I have solo-developed several games in my time as a college student, and I can tell you from a first-hand experience that learning the very complex softwares of Unity or Unreal Engine are a breeze when you are invested and somewhat in love with 
 your personal project. Instead of having to go out of the way to allocate time to develop intricate collision systems or even to finish the script to a game, the time creates itself. You can't wait to get home just to read software documentation for three hours because you have the vision of your finished
