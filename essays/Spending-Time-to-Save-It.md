@@ -20,6 +20,3 @@ My personal experience with Bootstrap 5 has been largely positive. I've created 
 
 Comparing Bootstrap to another framework like Semantic UI highlights important differences. While Bootstrap focuses on predefined classes that follow a specific convention, Semantic UI emphasizes more readable, human-friendly HTML. However, Bootstrap has a wider community, more extensive resources, and greater plugin support. Each framework has its strengths, but from a software engineering perspective, both promote reusability, maintainability, and scalability, making them essential tools for modern web development.
 
-## A Bootstrap Page
-
-<img width="300px" class="rounded float-start pe-4" src="..img/experience-islandsnow-bootstrap.png">
