@@ -22,4 +22,4 @@ Comparing Bootstrap to another framework like Semantic UI highlights important d
 
 ## A Bootstrap Page
 
-<img width="300px" class="rounded float-start pe-4" src="../img/experience-islandsnow-bootstrap.png">
+<img width="300px" class="rounded float-start pe-4" src="..img/experience-islandsnow-bootstrap.png">
