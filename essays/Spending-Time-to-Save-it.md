@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Spending Time to Save it"
+title: "The Pain of Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2024-10-10
+date: 2024-09-26
 published: true
 labels:
-  - Bootstrap 5
-  - UI Frameworks
----
+  - Software Engineering
+  - Coding Standards
+--- 
 
 UI frameworks, like Bootstrap 5 and Semantic UI, offer developers a structured and efficient approach to building web interfaces. While they may initially seem complex, their benefits far outweigh the challenges. Raw HTML and CSS, though simpler, require significant manual work to ensure responsiveness, cross-browser compatibility, and consistent design. UI frameworks abstract these repetitive tasks, allowing developers to focus on the unique aspects of their projects, streamlining development and ensuring that the final product functions well across different devices and browsers.
 
