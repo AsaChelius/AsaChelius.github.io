@@ -16,5 +16,7 @@ labels:
 
 ## The Magic of Design Patterns
 
+  
   Design patterns aren’t rules—they’re tools, each with its unique purpose, like a chef’s knives or a painter’s brushes. Sometimes, simplicity reigns, and you don’t need them. But when the complexity builds, these patterns transform problems into opportunities for creative expression. They’ve helped me craft adaptable payment systems using Strategy, streamline logging with Singleton, and bring elegance to countless projects. Most importantly, they’ve taught me to think like an architect, planning for clarity, flexibility, and longevity. Every time I apply a design pattern, I’m not just solving a coding problem—I’m contributing to a centuries-old conversation about the art and science of creation. That’s the beauty of design patterns: they’re not just tools for developers—they’re a shared language of innovation.
+
 I used ChatGPT to help me generate a general workflow that I then expanded on to write this essay.
