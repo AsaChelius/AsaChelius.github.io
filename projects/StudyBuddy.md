@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/90335.png
+image: img/FrontPage.png
 title: "Study Buddy Project"
 date: 2021
 published: true
