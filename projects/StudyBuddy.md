@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICStudy.png
+image: img/190335.png
 title: "Study Buddy Project"
 date: 2021
 published: true
