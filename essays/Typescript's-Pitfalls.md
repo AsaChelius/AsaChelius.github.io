@@ -4,7 +4,7 @@ type: essay
 title: "Typescript's Pitfalls"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: true
+published: false
 labels:
   - Athletic Software Engineering
   - Typescript
