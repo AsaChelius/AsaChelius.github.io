@@ -18,4 +18,4 @@ summary: "I was a part of a team that built a website that allowed computer scie
   <img width="700px" src="../img/SessionsPage.png" class="img-thumbnail" >
 </div>
 
-Source: <a href="https://github.com/thesoftwaredevelopers"><i class="large github icon "></i>jogarces/TheSoftwareDevelops Github Organization</a>
+Source: <a href="https://github.com/thesoftwaredevelopers"><i class="large github icon "></i>TheSoftwareDevelops Github Organization</a>
