@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_0109.JPG
+image: img/StudyBuddy.JPG
 title: "Study Buddy Project"
 date: 2021
 published: true
@@ -15,5 +15,5 @@ summary: "I was a part of a team that built a website that allowed computer scie
   My contributions to the project focused on building key features that defined user engagement. I designed and implemented the leaderboard, which dynamically ranked users based on their accumulated points. I also developed the point system, ensuring fairness and scalability as users participated in sessions. Additionally, I created the logo, which visually represented our project's mission and served as a centerpiece for branding. This experience taught me the importance of seamless integration between functionality and design. I gained a deeper understanding of working with React components, managing state efficiently, and styling with Bootstrap. Moreover, collaborating with my team improved my communication and problem-solving skills as we navigated technical challenges together. Overall, the project was an invaluable learning experience that showcased the impact of teamwork and innovation.
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/IMG_1284.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/StudySessions.jpg" class="img-thumbnail" >
 </div>
