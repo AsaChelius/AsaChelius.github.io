@@ -17,3 +17,5 @@ summary: "I was a part of a team that built a website that allowed computer scie
 <div class="text-center p-4">
   <img width="700px" src="../img/SessionsPage.png" class="img-thumbnail" >
 </div>
+
+Source: <a href="https://github.com/thesoftwaredevelopers"><i class="large github icon "></i>jogarces/TheSoftwareDevelops Github Organization</a>
